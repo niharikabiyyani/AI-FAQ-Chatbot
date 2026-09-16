@@ -28,14 +28,14 @@ An AI-powered FAQ chatbot built using Python, TF-IDF, cosine similarity, and Gra
 - Computer Vision
 - AI Internships
 
-## ▶️ How to Run
-Install the required libraries:
-```bash
-pip install scikit-learn gradio
-
 ## 📸 Chatbot Demo
 
 ![AI FAQ Chatbot](chatbot-demo.png)
 ## 🎥 Demo
 
 [▶️ Watch the chatbot demo](https://drive.google.com/file/d/1MqR46auvz7elThdm8QFbFn5lXCoRyuDX/view?usp=sharing)
+
+## ▶️ How to Run
+Install the required libraries:
+```bash
+pip install scikit-learn gradio
