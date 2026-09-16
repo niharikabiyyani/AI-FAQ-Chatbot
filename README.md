@@ -29,6 +29,9 @@ An AI-powered FAQ chatbot built using Python, TF-IDF, cosine similarity, and Gra
 - AI Internships
 
 ## ▶️ How to Run
+## 📸 Chatbot Demo
+
+![AI FAQ Chatbot](chatbot-demo.png)
 
 Install the required libraries:
 
